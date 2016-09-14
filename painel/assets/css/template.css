@@ -1,0 +1,39 @@
+body {
+	margin:0;
+	background-color:#EEE;
+}
+h4 {
+	background-color:#DDD;
+	height:35px;
+	line-height: 35px;
+	padding-left:20px;
+	margin:0;
+}
+h5 {
+	height:35px;
+	line-height: 35px;
+	padding-left:40px;
+	margin:0;
+}
+select {
+	min-width:150px;
+}
+.topo {
+	height:40px;
+	background-color:#333;
+	color:#FFF;
+}
+.topo a {
+	color:#FFF;
+	text-decoration: none;
+}
+.topo a div {
+	float:left;
+	height:40px;
+	line-height: 40px;
+	padding-right:20px;
+	padding-left:20px;
+}
+.topo a div:hover {
+	background-color:#555;
+}

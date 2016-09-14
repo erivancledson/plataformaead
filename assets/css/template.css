@@ -1,0 +1,94 @@
+body {
+	margin:0;
+	background-color:#EEE;
+}
+.topo {
+	height:40px;
+	background-color:#333;
+	color:#FFF;
+}
+.topo a {
+	color:#FFF;
+	text-decoration: none;
+}
+.topo a div {
+	float:right;
+	height:40px;
+	line-height: 40px;
+	padding-right:20px;
+	padding-left:20px;
+}
+.topo a div:hover {
+	background-color:#555;
+}
+.topousuario {
+	float:right;
+	margin-right:20px;
+	height:40px;
+	line-height: 40px;
+}
+.cursoitem {
+	width:260px;
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:20px;
+	border:2px solid #CCC;
+	border-radius:10px;
+	text-align: center;
+}
+.cursoinfo {
+	height:80px;
+	background-color:#CCC;
+}
+.cursoinfo img {
+	float:left;
+	margin-right:20px;
+	margin-top:10px;
+	margin-left:20px;
+}
+.cursoinfo h3 {
+	margin:0;
+	padding-top:10px;
+}
+.curso_left {
+	width:30%;
+	min-height:300px;
+	float:left;
+	background-color:#DDD;
+	overflow-y:scroll;
+}
+.curso_left a {
+	color:#000;
+	text-decoration: none;
+}
+.curso_right {
+	width:70%;
+	min-height: 300px;
+	float:left;
+	overflow-y:scroll;
+}
+.modulo {
+	height:30px;
+	line-height: 30px;
+	padding-left:20px;
+	background-color:#BBB;
+}
+.aula {
+	height:30px;
+	line-height: 30px;
+	padding-left:30px;
+}
+.aula:hover {
+	background-color:#AAA;
+}
+.form_duvida textarea {
+	width:100%;
+	height:150px;
+}
+
+
+
+
+
+
